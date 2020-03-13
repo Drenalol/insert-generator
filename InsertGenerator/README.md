@@ -1,0 +1,1 @@
+Generating inserts for PostgreSQL (and other with some changes) from Classes
